@@ -253,4 +253,3 @@ To get started with the scripts in this repository, ensure you have Python insta
 ```bash
 pip install -r requirements.txt
 ```
-```
